@@ -1,7 +1,8 @@
 '''
-Sliding window for processing the tasks
-pso
-totalTime compute
+ToDo:
+    Sliding window for processing the tasks
+    pso
+    totalTime compute
 '''
 import random
 
